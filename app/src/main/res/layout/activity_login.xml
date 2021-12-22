@@ -29,7 +29,7 @@
             android:layout_marginBottom="40dp"
             android:fontFamily="casual"
             android:gravity="center"
-            android:text="Iniciar sesión con correo electrónico"
+            android:text="@string/text_Login"
             android:textStyle="bold"
             tools:layout_gravity="center" />
 
@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:fontFamily="casual"
-            android:hint="Correo electrónico"
+            android:hint="@string/email"
             android:inputType="textEmailAddress"
             android:textStyle="bold" />
 
@@ -49,7 +49,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:fontFamily="casual"
-            android:hint="Contraseña"
+            android:hint="@string/password"
             android:inputType="textPassword"
             android:textStyle="bold" />
 
@@ -60,7 +60,7 @@
             android:backgroundTint="#7C215B"
             android:fontFamily="casual"
             android:onClick="login"
-            android:text="Iniciar sesión"
+            android:text="@string/button_Login"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textStyle="bold"
             app:strokeWidth="3dp" />
@@ -72,7 +72,7 @@
             android:backgroundTint="#FFFFFF"
             android:fontFamily="casual"
             android:onClick="register"
-            android:text="¿Necesito una cuenta?"
+            android:text="@string/button_need"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="#000000"
             android:textStyle="bold"
@@ -98,7 +98,7 @@
             android:backgroundTint="#FFFFFF"
             android:fontFamily="casual"
             android:onClick="googleSignIn"
-            android:text="Continuar con Google"
+            android:text="@string/button_continueGoogle"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="#000000"
             android:textStyle="bold"
@@ -114,7 +114,7 @@
             android:layout_height="wrap_content"
             android:backgroundTint="#025AEA"
             android:fontFamily="casual"
-            android:text="Continuar con Facebook"
+            android:text="@string/button_continueFacebook"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
@@ -130,7 +130,7 @@
             android:layout_height="wrap_content"
             android:backgroundTint="#025AEA"
             android:fontFamily="casual"
-            android:text="Continuar con Twiter"
+            android:text="@string/button_continueTwiter"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="#FFFFFF"
             android:textStyle="bold"

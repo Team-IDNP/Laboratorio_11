@@ -29,7 +29,7 @@
                 android:id="@+id/textView12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Registrado desde Abril, 2017"
+                android:text="@string/text_infoUser"
                 android:textAlignment="center" />
 
             <Button
@@ -39,7 +39,7 @@
                 android:layout_margin="20dp"
                 android:backgroundTint="?attr/colorPrimaryVariant"
                 android:fontFamily="casual"
-                android:text="Ver informacion"
+                android:text="@string/button_viewInformation"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:background="?attr/colorOnPrimary"
                 android:padding="10dp"
-                android:text="MIS ALERTAS"
+                android:text="@string/text_myAlerts"
                 android:textAlignment="center" />
 
             <RelativeLayout

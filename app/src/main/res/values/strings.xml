@@ -2,7 +2,40 @@
     <string name="app_name">ResiduosApp</string>
     <string name="title_mapAlertas">Mapa de Alertas</string>
     <string name="title_addAlerta">Añadir Alerta</string>
+    <string name="text_Login">Iniciar sesión con correo electrónico</string>
     <string name="title_profile">Perfil</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="button_Login">Iniciar Sesión</string>
+    <string name="button_need">¿Necesito una cuenta?</string>
+    <string name="button_continueGoogle">Continuar con Google</string>
+    <string name="button_continueFacebook">Continuar con Facebook</string>
+    <string name="button_continueTwiter">Continuar con Twiter</string>
+
+    <!-- Add Alert -->
+    <string name="text_place">Lugar</string>
+    <string name="text_dep">Departamento</string>
+    <string name="text_prov">Provicnia</string>
+    <string name="text_dist">Distrito</string>
+    <string name="text_imag">Imagen</string>
+    <string name="text_ubi">Ubicación</string>
+    <string name="button_rep">Reportar</string>
+
+    <!-- Profile -->
+    <string name="text_infoUser">Registrado desde Abril, 2017</string>
+    <string name="button_viewInformation">Ver informacion</string>
+    <string name="text_myAlerts">MIS ALERTAS</string>
+    <string name="text_dist">Distrito</string>
+    <string name="text_imag">Imagen</string>
+    <string name="text_ubi">Ubicación</string>
+    <string name="button_rep">Reportar</string>
+
+
+
+
+
+
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
