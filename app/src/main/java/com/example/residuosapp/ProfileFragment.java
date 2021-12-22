@@ -75,8 +75,8 @@ public class ProfileFragment extends Fragment {
         adapter = new TabFragmentAdapter(fm, getLifecycle());
         viewPager2.setAdapter(adapter);
 
-        tabLayout.addTab(tabLayout.newTab().setText("Mapa").setIcon(R.drawable.ic_earth));
-        tabLayout.addTab(tabLayout.newTab().setText("Lista").setIcon(R.drawable.ic_list));
+        tabLayout.addTab(tabLayout.newTab().setText(R.string.option_map).setIcon(R.drawable.ic_earth));
+        tabLayout.addTab(tabLayout.newTab().setText(R.string.option_list).setIcon(R.drawable.ic_list));
 
         tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
