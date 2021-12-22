@@ -129,7 +129,7 @@ public class AddAlertFragment extends Fragment {
     public void onResume() {
         super.onResume();
         TextView toolbarT = getActivity().findViewById(R.id.toolbar_title);
-        toolbarT.setText("Nueva alerta");
+        toolbarT.setText(R.string.title_newAlert);
     }
 
     public void upImage(View v){

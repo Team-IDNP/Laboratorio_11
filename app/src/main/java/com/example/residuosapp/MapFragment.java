@@ -89,6 +89,6 @@ public class MapFragment extends Fragment {
     public void onResume() {
         super.onResume();
         TextView toolbarT = getActivity().findViewById(R.id.toolbar_title);
-        toolbarT.setText("Mapa de alertas");
+        toolbarT.setText(R.string.title_mapAlertas);
     }
 }

@@ -95,7 +95,7 @@ public class HomeFragment extends Fragment {
                             .commit();
                     but.setText("Ver estadisticas");
                     TextView toolbarT = getActivity().findViewById(R.id.toolbar_title);
-                    toolbarT.setText("Mapa de alertas");
+                    toolbarT.setText(R.string.title_mapAlertas);
                 }
 
             }
