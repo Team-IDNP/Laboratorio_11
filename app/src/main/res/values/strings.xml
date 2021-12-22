@@ -17,7 +17,7 @@
     <!-- Add Alert -->
     <string name="text_place">Lugar</string>
     <string name="text_dep">Departamento</string>
-    <string name="text_prov">Provicnia</string>
+    <string name="text_prov">Provincia</string>
     <string name="text_dist">Distrito</string>
     <string name="text_imag">Imagen</string>
     <string name="text_ubi">Ubicación</string>
@@ -27,10 +27,6 @@
     <string name="text_infoUser">Registrado desde Abril, 2017</string>
     <string name="button_viewInformation">Ver informacion</string>
     <string name="text_myAlerts">MIS ALERTAS</string>
-    <string name="text_dist">Distrito</string>
-    <string name="text_imag">Imagen</string>
-    <string name="text_ubi">Ubicación</string>
-    <string name="button_rep">Reportar</string>
     <string name="option_map">Mapa</string>
     <string name="option_list">Lista</string>
 

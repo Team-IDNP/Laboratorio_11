@@ -2,39 +2,36 @@
 
 <resources>
     <string name="app_name">ResiduosApp</string>
-    <string name="title_mapAlertas">Mapa de Alertas</string>
-    <string name="title_addAlerta">Añadir Alerta</string>
-    <string name="title_newAlert">Nueva alerta</string>
+    <string name="title_mapAlertas">Alert Map</string>
+    <string name="title_addAlerta">Add Alert</string>
+    <string name="title_newAlert">New alert</string>
 
-    <string name="text_Login">Iniciar sesión con correo electrónico</string>
-    <string name="title_profile">Perfil</string>
-    <string name="email">Correo electrónico</string>
-    <string name="password">Contraseña</string>
-    <string name="button_Login">Iniciar Sesión</string>
-    <string name="button_need">¿Necesito una cuenta?</string>
-    <string name="button_continueGoogle">Continuar con Google</string>
-    <string name="button_continueFacebook">Continuar con Facebook</string>
-    <string name="button_continueTwiter">Continuar con Twiter</string>
+    <string name="text_Login">Login with email</string>
+    <string name="title_profile">Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button_Login">Login</string>
+    <string name="button_need">Do I need an account?</string>
+    <string name="button_continueGoogle">Continue with Google</string>
+    <string name="button_continueFacebook">Continue with Facebook</string>
+    <string name="button_continueTwiter">Continue with Twiter</string>
 
     <!-- Add Alert -->
-    <string name="text_place">Lugar</string>
-    <string name="text_dep">Departamento</string>
-    <string name="text_prov">Provicnia</string>
-    <string name="text_dist">Distrito</string>
-    <string name="text_imag">Imagen</string>
-    <string name="text_ubi">Ubicación</string>
-    <string name="button_rep">Reportar</string>
+    <string name="text_place">Place</string>
+    <string name="text_dep">Department</string>
+    <string name="text_prov">Province</string>
+    <string name="text_dist">District</string>
+    <string name="text_imag">Image</string>
+    <string name="text_ubi">Location</string>
+    <string name="button_rep">Report</string>
 
     <!-- Profile -->
-    <string name="text_infoUser">Registrado desde Abril, 2017</string>
-    <string name="button_viewInformation">Ver informacion</string>
-    <string name="text_myAlerts">MIS ALERTAS</string>
-    <string name="text_dist">Distrito</string>
-    <string name="text_imag">Imagen</string>
-    <string name="text_ubi">Ubicación</string>
-    <string name="button_rep">Reportar</string>
-    <string name="option_map">Mapa</string>
-    <string name="option_list">Lista</string>
+    <string name="text_infoUser">Registered since April, 2017</string>
+    <string name="button_viewInformation">View information</string>
+    <string name="text_myAlerts">MY ALERTS</string>
+
+    <string name="option_map">Map</string>
+    <string name="option_list">List</string>
 
 
 
